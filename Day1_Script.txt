@@ -1,6 +1,6 @@
 FIND AND REPLACE THE FOLLOWING - From # to #
 
-! Monitor Num:      Control F1
+! Monitor Num:      11
 ! Cam6 Mac Add:     #camera6macadd#
 ! Cam8 Mac Add:     #camera8macadd#
 ! Ephone 1 Mac: 	#ephone1macadd#
